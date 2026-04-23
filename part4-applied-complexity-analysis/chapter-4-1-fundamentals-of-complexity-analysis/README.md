@@ -14,6 +14,7 @@ This chapter introduces the foundations of Applied Complexity Analysis, bridging
 
 | File | Description |
 |------|-------------|
+| `figures/figure-4-1-1-applied-complexity-framework.py` | Produces Figure 4.1.1 (applied complexity analysis framework) |
 | `figures/figure-4-1-2-fixed-points-stability.py` | Produces Figure 4.1.2 (fixed points and stability flow diagram) |
 | `data/` | Any data files used in the chapter (none required for 4.1) |
 
@@ -25,10 +26,15 @@ From the repository root:
 
 ```bash
 cd part4-applied-complexity-analysis/chapter-4-1-fundamentals-of-complexity-analysis
+
+# Figure 4.1.1
+python figures/figure-4-1-1-applied-complexity-framework.py
+
+# Figure 4.1.2
 python figures/figure-4-1-2-fixed-points-stability.py
 ```
 
-The figure will be saved in the `figures/` folder as `figure-4-1-2.png`.
+Each script opens the figure in a matplotlib window.
 
 ---
 
