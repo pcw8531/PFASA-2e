@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying book."
+authors:
+  - family-names: "Park"
+    given-names: "Chulwook"
+    affiliation: "Seoul National University"
+    orcid: "https://orcid.org/0000-0001-8714-5760"
+title: "Practical Foundation of Applied Complexity Analysis (2nd ed.) — Companion Code"
+version: "0.1.0"
+date-released: 2026-04-23
+url: "https://github.com/pcw8531/PFASA-2e"
+preferred-citation:
+  type: book
+  authors:
+    - family-names: "Park"
+      given-names: "Chulwook"
+  title: "Practical Foundation of Applied Complexity Analysis: From Basic Statistics to Nonlinear Dynamics"
+  edition: "2nd"
+  publisher:
+    name: "CRC Press / Taylor & Francis"
+  year: 2027
+  isbn: "9781041387428"
